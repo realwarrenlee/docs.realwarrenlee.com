@@ -1,0 +1,100 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Warren Lee",
+  "colors": {
+    "primary": "#16A34A",
+    "light": "#07C983",
+    "dark": "#15803D"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Welcome",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "index"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Resources",
+        "groups": [
+          {
+            "group": "Technology",
+            "pages": [
+              "resources/llm",
+              "resources/genai",
+              "resources/infra",
+              "resources/vibe",
+              "resources/benchmark",
+              "resources/research"
+            ]
+          },
+          {
+            "group": "Business",
+            "pages": [
+              "resources/startups",
+              "resources/vc",
+              "resources/shareholder"
+            ]
+          },
+          {
+            "group": "Finance",
+            "pages": [
+              "resources/stocks"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Learn",
+        "groups": [
+          {
+            "group": "Technology",
+            "pages": [
+              "learn/python",
+              "learn/c",
+              "learn/algorithm",
+              "learn/ai",
+              "learn/web",
+              "learn/cyber",
+              "learn/cloud",
+              "learn/hardware",
+              "learn/developer"
+            ]
+          },
+          {
+            "group": "Finance",
+            "pages": [
+              "learn/stocks",
+              "learn/crypto",
+              "learn/banks"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Social",
+        "groups": [
+          {
+            "group": "Social Media",
+            "pages": [
+              "social/social",
+              "social/forum",
+              "social/dating"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  }
+}
