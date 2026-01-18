@@ -32,7 +32,8 @@
               "resources/infra",
               "resources/vibe",
               "resources/benchmark",
-              "resources/research"
+              "resources/research",
+              "resources/design"
             ]
           },
           {
@@ -47,6 +48,13 @@
             "group": "Finance",
             "pages": [
               "resources/stocks"
+            ]
+          },
+          {
+            "group": "Politics",
+            "pages": [
+              "resources/parties",
+              "resources/gov"
             ]
           }
         ]
@@ -85,7 +93,10 @@
             "group": "Social Media",
             "pages": [
               "social/social",
+              "social/media",
               "social/forum",
+              "social/games",
+              "social/events",
               "social/dating"
             ]
           }
